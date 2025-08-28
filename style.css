@@ -5,6 +5,9 @@
     text-decoration: none;
     list-style-type: none;
 } 
+header{
+    padding-top: 10px;
+}
 
 :root{
     --verde-escuro:#14424b;
